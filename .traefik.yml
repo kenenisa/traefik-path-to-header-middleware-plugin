@@ -1,0 +1,3 @@
+moduleName: github.com/kenenisa/traefik-path-to-header-middleware-plugin
+displayName: Path Header Plugin
+testData: '{"path":"test"}' 
